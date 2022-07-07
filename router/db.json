@@ -1,0 +1,62 @@
+{
+    "superheroes": [
+      {
+        "id": 1,
+        "name": "Batman2",
+        "alterEgo": "Bruce Wayne"
+      },
+      {
+        "id": 2,
+        "name": "Superman",
+        "alterEgo": "Clark Kent"
+      },
+      {
+        "id": 3,
+        "name": "Wonder Woman",
+        "alterEgo": "Princess Diana"
+      },
+      {
+        "id": 4,
+        "name": "inda",
+        "alterEgo": "porille"
+      }
+      
+      ],
+
+      "friends":  [
+        {
+          "id": 1,
+          "name": "Mathew",
+          "alterEgo": "chandler"
+        },
+        {
+          "id": 2,
+          "name": "rachel",
+          "alterEgo": "Jenifer"
+        },
+        {
+          "id": 3,
+          "name": "Ross",
+          "alterEgo": "David"
+        }
+        
+        ],
+
+        "users": [
+          {
+            "id": "vishwas@example.com",
+            "channelId": "codevolution"
+          }
+        ],
+        "channels": [
+          {
+            "id": "codevolution",
+            "courses": ["react", "vue", "angular"]
+          }, 
+          {
+            "id": "pewdiepie",
+            "courses": ["react", "vue", "angular"]
+          }
+        ]
+
+  }
